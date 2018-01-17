@@ -3,12 +3,12 @@
   "short_name": "CF GaliléÔ",
   "icons": [
     {
-      "src": "/static/img/icons/favicon-196x196.png",
+      "src": "./static/img/icons/favicon-196x196.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/static/img/icons/mstile-310x310.png",
+      "src": "./static/img/icons/mstile-310x310.png",
       "sizes": "512x512",
       "type": "image/png"
     }
